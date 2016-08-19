@@ -1,0 +1,2 @@
+Options -Indexes #Empécher le listage des fichiers,  génère une Erreur 403
+ErrorDocument 403 /403.htm #Renvoie sur la page 403.htm en cas de tentative de listage
